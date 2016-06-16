@@ -6,7 +6,5 @@
 
 3. average_age.sql -> query that provides the average age of the employees if they were all alive today, feel free to round to years in both the individual and aggregate calculation
 
-4. average_hire_tenure.sql -> query that calculates the average time employees have been with the company
-
-5. average_hiring_age.sql -> calcualte the average time in which someone was initially hired by the company
+4. average_hiring_age.sql -> calcualte the average time in which someone was initially hired by the company
 

@@ -1,0 +1,1 @@
+SELECT count(gender) FROM employees WHERE gender = 'F';
