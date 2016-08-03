@@ -1,0 +1,1 @@
+SELECT gender, COUNT(`emp_no`) FROM employees GROUP BY gender;
