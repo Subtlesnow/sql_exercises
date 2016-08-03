@@ -1,1 +1,0 @@
-SELECT sum(salary) / count(salary) FROM salaries;
